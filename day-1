@@ -1,0 +1,10 @@
+#data types
+x=int(input())
+y=float(input())
+z=raw_input()
+a=x+i
+b=d+y
+c=s+z
+print a
+print b
+print c
